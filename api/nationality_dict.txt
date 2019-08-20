@@ -1,0 +1,249 @@
+Afghani	AFG
+Albanian	ALB
+Algerian	DZA
+American	ASM
+Andorian	AND
+Angolian	AGO
+Anguilla	AIA
+Antarctica	ATA
+Antiguans	ATG
+Argentine	ARG
+Armenian	ARM
+Aruba	ABW
+Australian	AUS
+Austrian	AUT
+Azerbaijani	AZE
+Bahameese	BHS
+Bahrainian	BHR
+Bangladeshi	BGD
+Barbadian	BRB
+Belarusian	BLR
+Belgian	BEL
+Belizean	BLZ
+Benin	BEN
+Bermudan	BMU
+Bhutanese	BTN
+Bolivian	BOL
+Bosnian	BIH
+Botswana	BWA
+Bouvet Island	BVT
+Brazilian	BRA
+British	IOT
+Bruneian	BRN
+Bulgarian	BGR
+Burkina Faso	BFA
+Burundi	BDI
+Cambodian	KHM
+Cameroonian	CMR
+Canadian	CAN
+Cape Verdean	CPV
+Cayman Islands	CYM
+Central African Republic	CAF
+Chad	TCD
+Chilean	CHL
+Chinese	CHN
+Christmas Island	CXR
+Cocos (Keeling) Islands	CCK
+Colombian	COL
+Comoros	COM
+Congolese	COG
+Cook Islands	COK
+Costa Rican	CRI
+Ivorian	CIV
+Croatian	HRV
+Cuban	CUB
+Cypriot	CYP
+Czech	CZE
+North Korean	PRK
+Congolese	COD
+Danish	DNK
+Djibouti	DJI
+Dominican	DMA
+Dominican	DOM
+Timorese	TMP
+Ecuadorean	ECU
+Egyptian	EGY
+Salvadorans 	SLV
+Equatorial Guinea	GNQ
+Eritrea	ERI
+Estonian	EST
+Ethiopian	ETH
+Falkland Islands (Malvinas)	FLK
+Faeroe Islands	FRO
+Fijian	FJI
+Finnish	FIN
+French	FRA
+French	FXX
+French	GUF
+French	PYF
+Gabonese	GAB
+Gambian	GMB
+Georgian	GEO
+German	D
+Ghanaian	GHA
+Gibraltar	GIB
+Greek	GRC
+Greenland	GRL
+Grenada	GRD
+Guadeloupe	GLP
+US	GUM
+Guatemalan	GTM
+Guinean	GIN
+Guinea-Bissauan	GNB
+Guyanese	GUY
+Haitian	HTI
+Heard and McDonald Islands	HMD
+Holy See (Vatican City State)	VAT
+Honduran	HND
+Chinese	HKG
+Hungarian	HUN
+Icelander	ISL
+Indian	IND
+Indonesian	IDN
+Iranian	IRN
+Iraqi	IRQ
+Irish	IRL
+Israeli	ISR
+Italian	ITA
+Jamaican	JAM
+Japanese	JPN
+Jordanian	JOR
+Kazakhstani	KAZ
+Kenyan	KEN
+Kiribati	KIR
+Kuwaiti	KWT
+Kyrgyz	KGZ
+Laotian	LAO
+Latvian	LVA
+Lebanese	LBN
+Lesotho	LSO
+Liberian	LBR
+Libyan	LBY
+Liechtensteiner	LIE
+Lithuanian	LTU
+Luxembourger	LUX
+Madagascar	MDG
+Malawian	MWI
+Malaysian	MYS
+Maldivan	MDV
+Malian	MLI
+Maltese	MLT
+Marshallese	MHL
+Martinique	MTQ
+Mauritanian	MRT
+Mauritian	MUS
+Mayotte	MYT
+Mexican	MEX
+Micronesian	FSM
+Monacan	MCO
+Mongolian	MNG
+Montserrat	MSR
+Moroccan	MAR
+Mozambican	MOZ
+Mayanmarese	MMR
+Namibian	NAM
+Nauruan	NRU
+Nepalese	NPL
+Netherlands 	NLD
+Netherlands Antilles	ANT
+Neutral Zone	NTZ
+New Caledonia	NCL
+New Zealander	NZL
+Nicaraguan	NIC
+Nigerien	NER
+Nigerian	NGA
+Niue	NIU
+Norfolk Island	NFK
+Northern Mariana Islands	MNP
+Norwegian	NOR
+Omani	OMN
+Pakistani	PAK
+Palauan	PLW
+Panamanian	PAN
+Papua New Guinean	PNG
+Paraguayan	PRY
+Peruvian	PER
+Filipino	PHL
+Pitcairn	PCN
+Polish	POL
+Portugees	PRT
+Puerto Rico	PRI
+Qatari	QAT
+South Korean	KOR
+Moldovan	MDA
+Reunion	REU
+Romanian	ROM
+Russian	RUS
+Rwandan	RWA
+Saint Helena	SHN
+Saint Kitts and Nevis	KNA
+Saint Lucian	LCA
+Saint Pierre and Miquelon	SPM
+Saint Vincent and the Grenadines	VCT
+Samoan	WSM
+San Marinese	SMR
+Sao Tomean	STP
+Saudi Arabian	SAU
+Senegalese	SEN
+Seychellois	SYC
+Sierra Leonean	SLE
+Singaporean	SGP
+Slovakian	SVK
+Slovenian	SVN
+Solomon Islander	SLB
+Somali	SOM
+South African	ZAF
+South Georgia and the South Sandwich Island	SGS
+Spanish	ESP
+Sri Lankan	LKA
+Sudanese	SDN
+Surinamer	SUR
+Svalbard and Jan Mayen Islands	SJM
+Swazi	SWZ
+Swedish	SWE
+Swiss	CHE
+Syrian	SYR
+Taiwanese	TWN
+Tajik	TJK
+Thai	THA
+Macedonian	MKD
+Togolese	TGO
+Tokelau	TKL
+Tongan	TON
+Trinidadian	TTO
+Tunisian	TUN
+Turkish	TUR
+Turkmen	TKM
+Turks and Caicos Islands	TCA
+Tuvalu	TUV
+Ugandan	UGA
+Ukrainian	UKR
+Emirian	ARE
+British	GBR
+British	GBD
+British	GBN
+British	GBO
+British	GBP
+British	GBS
+Tanzanian	TZA
+US	USA
+US	UMI
+Uruguayan	URY
+Uzbekistani	UZB
+Vanuatuan	VUT
+Venezuelan	VEN
+Vietnamese	VNM
+British	VGB
+US	VIR
+Wallis and Futuna Islands	WLF
+Western Sahara	ESH
+Yemeni	YEM
+Zaire	ZAR
+Zambian	ZMB
+Zimbabwean	ZWE
+UN	UNO
+UN	UNA
+Stateless	XXA
+Refugee	XXB
+Refugee	XXC
+Unspecified	XXX

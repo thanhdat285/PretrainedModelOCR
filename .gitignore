@@ -1,0 +1,9 @@
+.idea/
+*.pyc
+migrations/
+venv/
+.vscode
+.editorconfig
+api/detect_mrz2.py
+test.py
+logs
